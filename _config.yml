@@ -1,3 +1,4 @@
+remote_theme: feeling-responsive
 collections:
   authors:
     output: true
