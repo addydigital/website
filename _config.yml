@@ -1,4 +1,4 @@
-remote_theme: feeling-responsive
+theme: jekyll-theme-minimal
 collections:
   authors:
     output: true
